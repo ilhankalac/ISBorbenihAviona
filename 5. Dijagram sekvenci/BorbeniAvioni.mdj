@@ -113,7 +113,7 @@
 									"left": 32,
 									"top": 8,
 									"width": 1449,
-									"height": 3689,
+									"height": 3721,
 									"autoResize": false,
 									"nameLabel": {
 										"$ref": "AAAAAAFkcHULlgmKiI8="
@@ -293,7 +293,7 @@
 											"left": 417,
 											"top": 80,
 											"width": 1,
-											"height": 3623,
+											"height": 3649,
 											"autoResize": false
 										}
 									],
@@ -309,7 +309,7 @@
 									"left": 344,
 									"top": 40,
 									"width": 145,
-									"height": 3663,
+									"height": 3689,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -495,7 +495,7 @@
 											"left": 978,
 											"top": 80,
 											"width": 1,
-											"height": 3561,
+											"height": 3649,
 											"autoResize": false
 										}
 									],
@@ -511,7 +511,7 @@
 									"left": 904,
 									"top": 40,
 									"width": 148.57177734375,
-									"height": 3601,
+									"height": 3689,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -697,7 +697,7 @@
 											"left": 208,
 											"top": 105,
 											"width": 1,
-											"height": 3592,
+											"height": 3616,
 											"autoResize": false
 										}
 									],
@@ -713,7 +713,7 @@
 									"left": 152,
 									"top": 40,
 									"width": 111.8544921875,
-									"height": 3657,
+									"height": 3681,
 									"autoResize": false,
 									"stereotypeDisplay": "icon",
 									"showVisibility": true,
@@ -899,7 +899,7 @@
 											"left": 1179,
 											"top": 80,
 											"width": 1,
-											"height": 3585,
+											"height": 3649,
 											"autoResize": false
 										}
 									],
@@ -915,7 +915,7 @@
 									"left": 1104,
 									"top": 40,
 									"width": 149.3271484375,
-									"height": 3625,
+									"height": 3689,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -2291,7 +2291,7 @@
 											"left": 689,
 											"top": 80,
 											"width": 1,
-											"height": 3621,
+											"height": 3641,
 											"autoResize": false
 										}
 									],
@@ -2307,7 +2307,7 @@
 									"left": 616,
 									"top": 40,
 									"width": 145,
-									"height": 3661,
+									"height": 3681,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -18606,7 +18606,7 @@
 											"left": 410,
 											"top": 3658,
 											"width": 14,
-											"height": 29,
+											"height": 47,
 											"autoResize": false
 										}
 									],
@@ -18670,9 +18670,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 247,
+											"left": 221,
 											"top": 3655,
-											"width": 114.17529296875,
+											"width": 166.93701171875,
 											"height": 13,
 											"autoResize": false,
 											"alpha": -1.1071495177944106,
@@ -18682,7 +18682,7 @@
 											},
 											"edgePosition": 1,
 											"underline": false,
-											"text": "105 : Ugašen motor",
+											"text": "105 : Uspešno ugašen motor",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -18808,6 +18808,176 @@
 									},
 									"activation": {
 										"$ref": "AAAAAAFkcO8wDBmH54w="
+									},
+									"showProperty": true,
+									"showType": true
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAFkcPB7KxmkjEQ=",
+									"_parent": {
+										"$ref": "AAAAAAFkcHULlgmIoWA="
+									},
+									"model": {
+										"$ref": "AAAAAAFkcPB7Kxmjdpk="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFkcPB7KxmlItU=",
+											"_parent": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"model": {
+												"$ref": "AAAAAAFkcPB7Kxmjdpk="
+											},
+											"visible": true,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 224,
+											"top": 3679,
+											"width": 175.626953125,
+											"height": 13,
+											"autoResize": false,
+											"alpha": 4.5472394921593615,
+											"distance": 12.165525060596439,
+											"hostEdge": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"edgePosition": 1,
+											"underline": false,
+											"text": "106 : Uspešno napušten avion",
+											"horizontalAlignment": 2,
+											"verticalAlignment": 5,
+											"wordWrap": false
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFkcPB7LBmmbNE=",
+											"_parent": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"model": {
+												"$ref": "AAAAAAFkcPB7Kxmjdpk="
+											},
+											"visible": false,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 308,
+											"top": 3716,
+											"width": 0,
+											"height": 13,
+											"autoResize": false,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"edgePosition": 1,
+											"underline": false,
+											"horizontalAlignment": 2,
+											"verticalAlignment": 5,
+											"wordWrap": false
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFkcPB7LBmnO+c=",
+											"_parent": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"model": {
+												"$ref": "AAAAAAFkcPB7Kxmjdpk="
+											},
+											"visible": false,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 309,
+											"top": 3681,
+											"width": 0,
+											"height": 13,
+											"autoResize": false,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"edgePosition": 1,
+											"underline": false,
+											"horizontalAlignment": 2,
+											"verticalAlignment": 5,
+											"wordWrap": false
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAFkcPB7LBmo4d4=",
+											"_parent": {
+												"$ref": "AAAAAAFkcPB7KxmkjEQ="
+											},
+											"model": {
+												"$ref": "AAAAAAFkcPB7Kxmjdpk="
+											},
+											"visible": false,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 208,
+											"top": 3697,
+											"width": 14,
+											"height": 25,
+											"autoResize": false
+										}
+									],
+									"visible": true,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"head": {
+										"$ref": "AAAAAAFkcHeg2QoABkc="
+									},
+									"tail": {
+										"$ref": "AAAAAAFkcHUiQwmdRPA="
+									},
+									"lineStyle": 0,
+									"points": "410:3697;208:3697",
+									"nameLabel": {
+										"$ref": "AAAAAAFkcPB7KxmlItU="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFkcPB7LBmmbNE="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFkcPB7LBmnO+c="
+									},
+									"activation": {
+										"$ref": "AAAAAAFkcPB7LBmo4d4="
 									},
 									"showProperty": true,
 									"showType": true
@@ -20775,7 +20945,24 @@
 							"_parent": {
 								"$ref": "AAAAAAFkcHULlQmHoL4="
 							},
-							"name": "Ugašen motor",
+							"name": "Uspešno ugašen motor",
+							"source": {
+								"$ref": "AAAAAAFkcHUiQgmWYCw="
+							},
+							"target": {
+								"$ref": "AAAAAAFkcHeg2An5gf4="
+							},
+							"visibility": "public",
+							"messageSort": "reply",
+							"isConcurrentIteration": false
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAFkcPB7Kxmjdpk=",
+							"_parent": {
+								"$ref": "AAAAAAFkcHULlQmHoL4="
+							},
+							"name": "Uspešno napušten avion",
 							"source": {
 								"$ref": "AAAAAAFkcHUiQgmWYCw="
 							},
